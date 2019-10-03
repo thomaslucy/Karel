@@ -4,8 +4,6 @@ public class FourRectanglePrinter
 {
     public static void main(String [] args)
     {
-        int xCoordinate;
-        int yCoordinate;
         int width = 5;
         int height = 7;
         Rectangle r = new Rectangle(0,0,width, height);
